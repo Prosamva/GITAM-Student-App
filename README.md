@@ -2,10 +2,22 @@
 # The GITAM Student App 
 **Platform:** Android (.apk)
 
-**Download the latest version:** [GITAM Student App v1.0](gsa.apk)
+**Download the latest version:** [GITAM Student App v1.1.0](gsa.apk)
 
 **How to install:** Check the [Installation Guide](misc/installation-guide.pdf)
-<br><br>
+<br />
+<br />
+
+## What's new?
+* #### v1.1.0
+    * Download files from G-Learn directly from the app.
+    * Added a section for important Links, News & Others
+    * Manage Upto 10 accounts on a device
+    * Save results of upto 15 students in G-Results
+    * Improved UI
+    * Added a notification center
+    * Minor bug fixes and patches
+<br /><br />
 
 ## About the App
 ---
@@ -13,7 +25,8 @@ We all have an app for everything and it is time GITAM Students had one. This ap
 Feedback decides if the app gets any updates. So if you are one of those who like this app, make sure you fill out the Feedback Form at the bottom of this section. Also please share this app to your fellow GITAM students. This app is not made for commercial purpose and will remain ad-free and free to use for its lifetime.
 
 ***"There has to be an app for everything."***
-<br><br>
+<br />
+<br />
 
 ![G-Student Portal](/imgs/gsa2.png)
 ![G-Results Portal](/imgs/gsa3.png)
@@ -22,8 +35,9 @@ Feedback decides if the app gets any updates. So if you are one of those who lik
 ![Neat & Clean Design](/imgs/gsa6.png)
 ![Ad-free](/imgs/gsa7.png)
 ![From dev](/imgs/gsa8.png)
-<br>
-<br>
+
+<br />
+<br />
 
 ## Privacy Policy:
 This app is built and provided by Samuel Vasamsetti (the developer) at no cost and is intended for use as is.
@@ -36,6 +50,8 @@ This app may contain links to other sites. If you click on a third-party link, y
 
 Changes to This Privacy Policy: 
 The developer may update the Privacy Policy from time to time. Thus, you are advised to review this page periodically (for every update) for any changes. The developer will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 23.1.2021
 
 ## Terms & Conditions:
 By downloading or using the app, these terms will automatically apply to you, so you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app in any way. You also shouldn't try to translate the app into other languages, or make derivative versions or upload the app to any market. The app itself, still belongs to the developer. However the developer has no rights to GITAM website. The GITAM logo, website, etc. belong to the authorities of GITAM (Deemed to be University). The illustrations used in the app are provided by icons8.
@@ -52,6 +68,8 @@ At some point, the app may get an update. The app is currently available on Andr
 
 Changes to This Terms and Conditions:
 The developer may update the Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. The developer will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 23.1.2021
 
 
 ## Fair Use Disclaimer:
