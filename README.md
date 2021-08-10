@@ -2,13 +2,14 @@
 # The GITAM Student App 
 **Platform:** Android (.apk)
 
-**Download the latest version:** [GITAM Student App v1.1.0](gsa.apk)
+**Download the latest version:** [GITAM Student App v1.1.1](gsa.apk)
 
 **How to install:** Check the [Installation Guide](misc/installation-guide.pdf)
-<br />
-<br />
+<br /><br />
 
 ## What's new?
+* #### v1.1.1
+    * Minor bug fixes
 * #### v1.1.0
     * Download files from G-Learn directly from the app.
     * Added a section for important Links, News & Others
@@ -16,7 +17,11 @@
     * Save results of upto 15 students in G-Results
     * Improved UI
     * Added a notification center
-    * Minor bug fixes and patches
+    * Minor bug fixes
+
+        *Screenshot:*
+
+        <img src="imgs/screenshot1.png" alt="Links, News & Others section" width="250"/>
 <br /><br />
 
 ## About the App
