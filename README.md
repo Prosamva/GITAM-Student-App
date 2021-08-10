@@ -7,6 +7,14 @@
 **How to install:** Check the [Installation Guide](misc/installation-guide.pdf)
 <br /><br />
 
+## NOTICE
+Thanks to over 600 users who have been using the app so far. Great thanks to those who provided feedback which was valuable in releasing updates. Many other features were meant to be released in future updates. However, due to GITAM's recent migration to the new LMS platform - Moodle, the GITAM Student app is becoming less relevant every day. So, the development process on the app is paused for now. Please do not expect any updates in future until mentioned.
+As the app is still functional to some extent, users can still use the app. However, if the app becomes less functional, outdated, or meant to be taken down due to any legal issues, the app will be terminated permanently. Please read the terms & conditions for more details.
+
+Once again, I am so thankful to all users for their interest in the app.
+
+<br /><br />
+
 ## What's new?
 * #### v1.1.1
     * Minor bug fixes
